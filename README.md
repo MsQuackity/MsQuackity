@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MsQuackity
+- 👋 Hi, I’m @MsQuackity! I am new here
 - 👀 I’m interested in
 - Java Programming
 - Python
